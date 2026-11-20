@@ -1,0 +1,4 @@
+interface:
+  display_name: "Safe Disk Cleanup"
+  short_description: "Clean disposable caches and compare disk growth"
+  default_prompt: "Use $win-safe-disk-cleanup to scan C: for new large files and clean safe caches while preserving my apps and personal data."
